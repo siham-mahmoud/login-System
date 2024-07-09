@@ -1,0 +1,29 @@
+
+ body{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    
+ }
+.bg{
+     background-image:radial-gradient(circle, rgb(205, 122, 218) 35%, rgb(136, 199, 195) 100%);
+    min-height: 100vh;
+}
+.card{
+    min-height: 400px;
+    
+    width: 700px;
+    box-shadow: 0 4px 8px rgba(33, 33, 33, 0.5);
+}
+.btn-submit{
+
+    background-image:linear-gradient( rgb(212, 182, 216) , rgb(181, 218, 216) );
+}
+.btn-submit:hover{
+    background-image:linear-gradient( rgb(195, 147, 203) , rgb(139, 186, 184) );
+    border: none;
+}
+.card-welcome{
+ 
+    box-shadow: 0 4px 8px rgba(33, 33, 33, 0.5);
+}
